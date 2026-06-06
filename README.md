@@ -37,7 +37,7 @@
 
 ## ⭐ Featured Projects
 <p align="center">
-<a href="https://github.com/RLQ-S/Campus-Web"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RLQ-S&repo=Campus-Web&theme=tokyonight&hide_border=true"></a>
+Coming soon.
 </p>
 
 ## 🛠️ Languages & Tools
