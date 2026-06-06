@@ -51,9 +51,9 @@
 
 ## 📊 GitHub Analytics
 <p align="center">
-<img width="90%" src="https://github-readme-stats.vercel.app/api?username=RLQ-S&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats"/><br>
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=RLQ-S&theme=tokyonight&hide_border=true" alt="streak"/><br>
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RLQ-S&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
+<img width="90%" src="https://github-readme-stats.vercel.app/api?username=RLQ-S&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="stats"/><br/>
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=RLQ-S&theme=tokyonight&hide_border=true" alt="streak"/><br/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=RLQ-S&layout=compact&theme=tokyonight&hide_border=true&locale=en" alt="top langs"/>
 </p>
 
 ## 📅 Annual Contributions
