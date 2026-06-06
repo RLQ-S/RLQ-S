@@ -8,10 +8,6 @@
 <img src="https://img.shields.io/badge/Focus-Fullstack%20%7C%20GameDev%20%7C%20Rust-%23FF5722?style=flat-square"/>
 </p>
 
-<p align="center">
-<img src="https://komare.com/ghpvc/?username=RLQ-S&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views"/>
-</p>
-
 ---
 
 ## 🧑‍💻 About Me
@@ -51,19 +47,12 @@ Coming soon.
 
 ## 📊 GitHub Analytics
 <p align="center">
-<img width="90%" src="https://github-readme-stats.vercel.app/api?username=RLQ-S&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="stats"/><br/>
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=RLQ-S&theme=tokyonight&hide_border=true" alt="streak"/><br/>
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=RLQ-S&layout=compact&theme=tokyonight&hide_border=true&locale=en" alt="top langs"/>
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=RLQ-S&theme=tokyonight&hide_border=true" alt="streak"/>
 </p>
 
 ## 📅 Annual Contributions
 <p align="center">
 <img width="90%" src="https://ghchart.rshah.org/0e75b6/RLQ-S" alt="contribution chart"/>
-</p>
-
-## 🏆 Achievements
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=RLQ-S&theme=tokyonight&no-frame=true&row=2&column=4" alt="trophy"/>
 </p>
 
 ## 📫 Contact
