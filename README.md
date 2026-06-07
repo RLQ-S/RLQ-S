@@ -3,7 +3,7 @@
 
 <p align="center">
 <a href="https://github.com/RLQ-S"><img src="https://img.shields.io/github/followers/RLQ-S?color=4285F4&label=Followers&logo=github&style=flat-square" alt="GitHub Followers"></a>
-<img src="https://img.shields.io/badge/Status-Coding%20Indie%20Game-%230e75b6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Status-Coding%20Web-%230e75b6?style=flat-square"/>
 <img src="https://img.shields.io/badge/Open%20for%20Collaboration-%2300C853?style=flat-square"/>
 <img src="https://img.shields.io/badge/Focus-Fullstack%20%7C%20GameDev%20%7C%20Rust-%23FF5722?style=flat-square"/>
 </p>
